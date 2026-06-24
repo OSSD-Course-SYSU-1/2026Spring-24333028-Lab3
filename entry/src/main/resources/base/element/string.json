@@ -1,0 +1,17 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "DreamJourney entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "梦想之旅"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "梦想之旅"
+    }
+  ]
+}
+

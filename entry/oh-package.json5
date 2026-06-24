@@ -1,0 +1,10 @@
+{
+  "name": "entry",
+  "modelVersion": "5.0.0",
+  "version": "1.0.0",
+  "description": "DreamJourney entry module",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
